@@ -1,0 +1,49 @@
+img{
+    height: 400px;
+    width: 300;
+}
+nav{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+h1{text-align: center;
+font-weight: bold;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    
+}
+a{
+    color: white;
+}
+li{
+    padding: 8px;
+    list-style: none;
+}
+button{
+    color: white;
+    background-color: orange;
+    border: orange;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 10px;
+} 
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+main{
+    background-color: bisque;
+}
+.count p{
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+.foot{
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}

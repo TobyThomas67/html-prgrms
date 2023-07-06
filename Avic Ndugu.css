@@ -1,0 +1,31 @@
+nav{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    
+}
+li{
+    list-style-type: none;
+    padding: 15px;
+}
+.li2{
+    margin-right: 600px;
+}
+a{
+    padding: 4px;
+    color: darkgrey;
+    text-decoration: none;
+}
+section{
+    margin-top: 400px;
+    color: white;
+    text-align: center;
+}
+.p1
+{
+    margin-top: 150px;
+}

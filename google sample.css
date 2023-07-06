@@ -1,0 +1,39 @@
+nav{
+    display: flex;
+    flex-direction: row;
+
+}
+ul{
+        display: flex;
+        flex-direction: row;
+    }
+li{
+        list-style-type:  none;
+        padding: 8px;
+    }
+.li2{
+    margin-right: 900px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    }
+.img{
+margin-top: 150px;
+margin-left: 500px;
+}
+input{
+    margin-top: 40px;
+    margin-left: 490px;
+    border-width: 2px;
+    border-radius: 10px;
+     width: 290px;
+}
+.bu{
+    margin-left: 510px;
+}
+footer{
+    margin-top: 200px;
+    padding: 30px;
+    background-color: aquamarine;
+}

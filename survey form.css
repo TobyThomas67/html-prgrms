@@ -1,0 +1,31 @@
+h1{
+    background-color: aqua;
+    text-align: center;
+    padding: 30px;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-color: bisque;
+}
+head{
+    margin-left: 2.5px;padding: 2.5px;border-width: 2px;
+    border-color: aqua;
+}
+form  { 
+    margin-left: 25%;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+label{
+    display: inline-block;
+    width: 250px;
+ }
+ .radio{
+    width: 300px;
+ }
+ body{
+    border-left: 15px solid aquamarine ;
+    border-right:15px solid aquamarine  ;
+}
